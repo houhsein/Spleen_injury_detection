@@ -18,12 +18,13 @@ This repository has been tested on NVIDIA TITAN RTX.
 
 # Usage
 
-```
 ## Inference
-
 ### Spleen cropping
+```
 python3 crop_inference.py
+```
 ### Spleen injury classification
+```
 python3 All_grad_cam_crop_torch_new_data.py
 
 ```
